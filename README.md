@@ -15,7 +15,8 @@ Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do
 
 ## Descrição
 
-![]()
+![](img/Capa.png)
+
 ## Introdução
 
 ## Funcionalidades
