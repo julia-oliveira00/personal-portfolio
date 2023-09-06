@@ -11,11 +11,11 @@
 
 # personal-portfolio
 
+![Capa do projeto](img/Capa.png)
+
 Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do Bootstrap
 
 ## Descrição
-
-![Capa do projeto](img/Capa.png)
 
 ## Introdução
 
