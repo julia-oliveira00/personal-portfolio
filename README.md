@@ -5,8 +5,7 @@
 * [Introdução](#introdu%C3%A7%C3%A3o)  
 * [Funcionalidades](#funcionalidades)  
 * [Tecnologias utilizadas](#tecnologias-utilizadas)  
-* [Fontes consultadas](#fontes-consultadas)  
-* [Autores](#autores)  
+* [Fontes consultadas](#fontes-consultadas)   
 
 
 # personal-portfolio
