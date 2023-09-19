@@ -17,10 +17,10 @@ Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do
 
 ## Descrição
 
-[Neste projeto aprendemos a usar elementos do README enquanto linguagem de marcação, organização e aprofundamento em commit, além do uso e implementação de Bootstrap]
+Neste projeto aprendemos a usar elementos do README enquanto linguagem de marcação, organização e aprofundamento em commit, além do uso e implementação de Bootstrap
 
 ## Introdução
-[A começar pelo uso de Bootstrap]
+A começar pelo uso de Bootstrap
 
 ![](video/bootstrap_example.mp4)
 
