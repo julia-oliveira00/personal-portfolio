@@ -33,7 +33,8 @@ ___
 Enquanto na documentação aprendemos organização, hierarquia de textos, inserção de links, imagens, gifs e videos. 
 
 A principio criamos o indice do README.
-E então seu corpo, com o objetivo de ser o mais autodidata e proativo possivel.
+
+Então seu corpo, com o objetivo de ser o mais autodidata e proativo possivel.
 ## Funcionalidades
 
 ### Tecnologias utilizadas
