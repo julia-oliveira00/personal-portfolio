@@ -22,7 +22,7 @@ Neste projeto aprendemos a usar elementos do README enquanto linguagem de marca�
 ## Introdução
 A começar pelo uso de Bootstrap
 
-![](video/bootstrap_example.mp4)
+![](video/bootstrap_example.gif)
 
 ## Funcionalidades
 
